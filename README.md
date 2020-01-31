@@ -3,4 +3,4 @@
 
 To run with Spring Session Hazelcast
 
-```mvnw spring-boot:run -Dspring.profiles.active=session```
+```mvnw spring-boot:run -Dspring-boot.run.profiles=session```
